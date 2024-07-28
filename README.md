@@ -23,4 +23,5 @@ I am Abhigyan Sadhanidar, a computer science student at The Kaziranga University
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
  https://www.linkedin.com/in/abhigyan-sadhanidar-98a212251
 
-email: 
+![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)
+abhigyansadhanidar@gmail.com 
