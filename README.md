@@ -14,7 +14,6 @@ I am Abhigyan Sadhanidar, a computer science student at The Kaziranga University
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 
 
 
